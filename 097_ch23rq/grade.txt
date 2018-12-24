@@ -1,0 +1,6 @@
+Grading at 11/01/2018:02:16:04.550310
+For commit ID acd0e3b1acc0fc6c37bf2fb5d1b3da5421a14a70
+Reading your quiz answers from answers.txt
+Your quiz answers are correct
+
+Overall Grade: PASSED

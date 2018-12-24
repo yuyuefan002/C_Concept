@@ -1,0 +1,197 @@
+Grading at 09/12/2018:17:43:16.692350
+For commit ID d3fc61d5fb96528f4f1fdf467cc1df988357d856
+-------------------------------------
+**Testing correct implementation**
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 8, expected_answer = 8
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+size_t n=10
+maxSeq(int * array, size_t,n)= 10, expected_answer = 10
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+maxSeq(int * array, size_t,n)= 0, expected_answer = 0
+pass all tests
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 8, expected_answer = 8
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+size_t n=10
+maxSeq(int * array, size_t,n)= 10, expected_answer = 10
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+maxSeq(int * array, size_t,n)= 0, expected_answer = 0
+pass all tests
+
+-------------------------------------
+**Testing broken implementation 10**
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 7, expected_answer = 8
+fail to pass the test 3!
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 7, expected_answer = 8
+fail to pass the test 3!
+
+-------------------------------------
+**Testing broken implementation 11**
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 3
+fail to pass the test 0!
+
+-------------------------------------
+**Testing broken implementation 1**
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 8, expected_answer = 8
+size_t n=10
+maxSeq(int * array, size_t,n)= 10, expected_answer = 2
+fail to pass the test 4!
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 8, expected_answer = 8
+size_t n=10
+maxSeq(int * array, size_t,n)= 10, expected_answer = 2
+fail to pass the test 4!
+
+-------------------------------------
+**Testing broken implementation 2**
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 3
+fail to pass the test 0!
+
+-------------------------------------
+**Testing broken implementation 3**
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 1
+fail to pass the test 1!
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 1
+fail to pass the test 1!
+
+-------------------------------------
+**Testing broken implementation 4**
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 8, expected_answer = 8
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+size_t n=10
+maxSeq(int * array, size_t,n)= 10, expected_answer = 10
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+maxSeq(int * array, size_t,n)= 1, expected_answer = 0
+fail to pass the test 7!
+size_t n=10
+maxSeq(int * array, size_t,n)= 3, expected_answer = 3
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 1
+size_t n=10
+maxSeq(int * array, size_t,n)= 4, expected_answer = 4
+size_t n=10
+maxSeq(int * array, size_t,n)= 8, expected_answer = 8
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+size_t n=10
+maxSeq(int * array, size_t,n)= 10, expected_answer = 10
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 2
+maxSeq(int * array, size_t,n)= 1, expected_answer = 0
+fail to pass the test 7!
+
+-------------------------------------
+**Testing broken implementation 5**
+size_t n=10
+maxSeq(int * array, size_t,n)= 7, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= 7, expected_answer = 3
+fail to pass the test 0!
+
+-------------------------------------
+**Testing broken implementation 6**
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 3
+fail to pass the test 0!
+
+-------------------------------------
+**Testing broken implementation 7**
+size_t n=10
+maxSeq(int * array, size_t,n)= -1, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= -1, expected_answer = 3
+fail to pass the test 0!
+
+-------------------------------------
+**Testing broken implementation 8**
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= 1, expected_answer = 3
+fail to pass the test 0!
+
+-------------------------------------
+**Testing broken implementation 9**
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 3
+fail to pass the test 0!
+size_t n=10
+maxSeq(int * array, size_t,n)= 2, expected_answer = 3
+fail to pass the test 0!
+
+All test programs were handled correctly
+
+Overall Grade: PASSED
